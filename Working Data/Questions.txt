@@ -1,0 +1,9 @@
+1. Are women more sucessful than men? => DONE
+
+2. Which governorate scored has the highest scorers? => DONE
+
+3. Do those who score high marks in Math, and Physics also have a high total? => DONE
+
+4. Is there a certain branch that scores higher than the rest? => DONE
+
+5. Which branch has the highest arabic scorers? => DONE

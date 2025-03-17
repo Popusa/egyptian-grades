@@ -1,0 +1,27 @@
+Using first attempt dataset only:
+
+1. Fill blanks with N/A
+
+2. Sample Out Dataset (Size too big to work with in excel)
+
+3. Data Cleaning (removing blanks and duplicates, converting N/A to 0)
+
+4. renamed columns to match their data description
+
+5. Drafted Questions
+
+6. Changed M and F to be Male and Female for more clarity
+
+7. Answered Question 1
+
+8. Answered Question 2
+
+9. Added total as % column to improve previous visualizations, and to make future ones great
+
+10. Answered Question 3 Part 1
+
+11. Answered Question 3 Part 2
+
+12. Answered Question 4
+
+13. Answered Question 5
